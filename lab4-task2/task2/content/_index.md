@@ -7,6 +7,11 @@ title = 'Home'
 
 # Welcome to our site
 
-We are Group ...
+**We are Group 1**
 
-Each one of you should change the contents of this file.
+Today we are leraning about Docker.
+
+### Topics that we required before doing this task 
++ Containers
++ Basics of git 
++ Basic of Docker
