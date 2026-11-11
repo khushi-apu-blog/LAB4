@@ -7,6 +7,7 @@ title = 'Home'
 
 # Welcome to our site
 
-We are Group ...
+We are Group 01
+ 
+we are studying git and docker.
 
-Each one of you should change the contents of this file.
