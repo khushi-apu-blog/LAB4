@@ -8,3 +8,5 @@ title = 'Change title'
 # About me
 
 Rename this file and add some content.
+This is Group 1.
+Today we are learning hugo and Git as part of our course 'Software Tools and Practices'.

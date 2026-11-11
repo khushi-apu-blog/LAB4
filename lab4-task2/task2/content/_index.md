@@ -5,8 +5,11 @@ menus = 'main'
 title = 'Home'
 +++
 
-# Welcome to our site
 
-We are Group ...
+# Welcome to Our site
 
-Each one of you should change the contents of this file.
+Hello! We are Group 1.
+
+This website is created as part of our Software Tools and Practices lab activity.
+
+We are learning to work with Git, GitHub.
