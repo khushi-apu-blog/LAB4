@@ -7,6 +7,4 @@ title = 'Home'
 
 # Welcome to our site
 
-We are Group ...
-
-Each one of you should change the contents of this file.
+I am Khushi Kumari. we are group1.
